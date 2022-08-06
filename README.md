@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/diego-tavares">
   <img height="166em" src="https://github-readme-stats.vercel.app/api?username=diego-tavares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-tavares&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-tavares&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
 ## Tecnologias
